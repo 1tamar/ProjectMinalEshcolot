@@ -1,0 +1,18 @@
+https://material-ui.com/getting-started/templates/
+https://dev.to/davidepacilio/35-free-react-templates-and-themes-32ci
+https://github.com/ilhammeidi/boss-lite
+https://github.com/flatlogic/react-material-admin
+https://dev.to/davidepacilio/30-free-react-dashboard-templates-and-themes-49g4
+https://www.creative-tim.com/templates/react-free?page=1
+
+
+
+--------------------- install for redux-----------------------
+npm install redux
+npm install react-redux
+npm install immer
+
+
+------------------install for router---------------------------
+npm install react-router
+npm install react-router-dom

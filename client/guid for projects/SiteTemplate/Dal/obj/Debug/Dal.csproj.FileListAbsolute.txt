@@ -1,0 +1,12 @@
+C:\Users\Moriyash\source\repos\SiteTemplate\Dal\bin\Debug\Dal.dll.config
+C:\Users\Moriyash\source\repos\SiteTemplate\Dal\bin\Debug\Dal.dll
+C:\Users\Moriyash\source\repos\SiteTemplate\Dal\bin\Debug\Dal.pdb
+C:\Users\Moriyash\source\repos\SiteTemplate\Dal\bin\Debug\EntityFramework.dll
+C:\Users\Moriyash\source\repos\SiteTemplate\Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moriyash\source\repos\SiteTemplate\Dal\bin\Debug\EntityFramework.xml
+C:\Users\Moriyash\source\repos\SiteTemplate\Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moriyash\source\repos\SiteTemplate\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\Moriyash\source\repos\SiteTemplate\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Moriyash\source\repos\SiteTemplate\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Moriyash\source\repos\SiteTemplate\Dal\obj\Debug\Dal.dll
+C:\Users\Moriyash\source\repos\SiteTemplate\Dal\obj\Debug\Dal.pdb

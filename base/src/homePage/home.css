@@ -1,0 +1,16 @@
+img {
+    height :200px ;
+}
+.circle {
+    border-radius: 75px;
+    background: #73AD21;
+    padding: 20px;
+    width: 150px;
+    height: 150px;
+    float: left;
+    text-align:center;
+}
+.aaaa{
+    /* float: left; */
+    padding-left: 20%;
+}

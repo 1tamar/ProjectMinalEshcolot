@@ -1,0 +1,16 @@
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\bin\Debug\Bll.dll
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\bin\Debug\Bll.pdb
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\bin\Debug\Dal.dll
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\bin\Debug\Dto.dll
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\bin\Debug\EntityFramework.dll
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\bin\Debug\AutoMapper.dll
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\bin\Debug\Dal.pdb
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\bin\Debug\Dal.dll.config
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\bin\Debug\Dto.pdb
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\bin\Debug\EntityFramework.xml
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\bin\Debug\AutoMapper.xml
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\obj\Debug\Bll.csproj.CopyComplete
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\obj\Debug\Bll.dll
+C:\Users\Moriyash\source\repos\SiteTemplate\Bll\obj\Debug\Bll.pdb
